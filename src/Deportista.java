@@ -17,4 +17,6 @@ public class Deportista extends Persona{
         double impuesto=sueldo*0.15;
         return impuesto;
     }
+
+
 }
